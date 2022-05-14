@@ -1,4 +1,4 @@
-Check my website at https://oibsip-task6.netlify.app/
+Check my website at https://oibsip-task06.netlify.app/
 
 # Task - 
 ![image](https://user-images.githubusercontent.com/93007427/167268279-220b274d-c42b-4399-b0c3-fdfc1ad44d05.png)
